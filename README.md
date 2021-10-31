@@ -8,3 +8,15 @@
 
 [![dongjoon's github stats](https://github-readme-stats.vercel.app/api?username=dongjji&count_private=true&custom_title=Dongjji's&nbsp;github&nbsp;👀&bg_color=30,bcbcbc,444444&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjji&exclude_repo=Mask_Detect,machine_learning&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,bcbcbc,444444&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+ <img src="https://img.shields.io/badge/-Main Lang-white?style=flat-square"/>
+ <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+ <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js"/>
+</p>
+<p align="center">
+ <img src="https://img.shields.io/badge/-other skills-white?style=flat-square"/>
+ <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
+ <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+ <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux"/>
+</p>
