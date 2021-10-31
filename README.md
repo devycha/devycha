@@ -18,6 +18,7 @@
 </p>
 <p align="left">
  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
+ <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL"/>
  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
  <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux"/>
 </p>
