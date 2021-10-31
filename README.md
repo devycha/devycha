@@ -13,7 +13,7 @@
  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js"/>
  <img src="https://img.shields.io/badge/-TypeScript-black?stype=flat-square&logo=typescript"/>
- <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js"/>
+ <img src="https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=NextJs"/>
  <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=MongoDB"/>
 </p>
 <p align="left">
