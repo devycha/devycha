@@ -8,7 +8,7 @@
 [![Blog Badge](https://img.shields.io/badge/-Project_Blog-FF5A00?logo=TVTime&logoColor=white&link=https://dongjji.tistory.com)](https://dongjji.tistory.com)
 
 [![dongjoon's github stats](https://github-readme-stats.vercel.app/api?username=dongjji&count_private=true&custom_title=Dongjji's&nbsp;github&nbsp;👀&bg_color=30,bcbcbc,444444&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjji&exclude_repo=Mask_Detect,machine_learning&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,bcbcbc,444444&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjji&exclude_repo=Mask_Detect,machine_learning,verilogHDL&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,bcbcbc,444444&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
