@@ -10,17 +10,17 @@
 
  <div width=95%>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DongJJI&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DongJJI&theme=graywhite&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
   
  </div>
  
- <div width=48%>
+ <div width=40%>
   
 [![dongjoon's github stats](https://github-readme-stats.vercel.app/api?username=dongjji&count_private=true&custom_title=Dongjji's&nbsp;github&nbsp;👀&bg_color=30,bcbcbc,444444&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
  
- <div width=48%>
+ <div width=30%>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjji&exclude_repo=Mask_Detect,machine_learning,verilogHDL&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,bcbcbc,444444&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   
