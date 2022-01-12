@@ -21,15 +21,16 @@
  <img src="https://raw.githubusercontent.com/dongjji/github-stats-transparent/output/generated/languages.svg" width=49.2% />
 </a>
 
+ <br><br>
 
-<p align="left">
+<p align="center">
  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js"/>
  <img src="https://img.shields.io/badge/-TypeScript-black?stype=flat-square&logo=typescript"/>
  <img src="https://img.shields.io/badge/-NestJs-black?style=flat-square&logo=NestJs"/>
  <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=MongoDB"/>
 </p>
-<p align="left">
+<p align="center">
  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
  <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL"/>
  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
