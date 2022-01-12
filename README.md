@@ -14,17 +14,13 @@
   
  </div>
  
- <div width=40%>
-  
-[![dongjoon's github stats](https://github-readme-stats.vercel.app/api?username=dongjji&count_private=true&custom_title=Dongjji's&nbsp;github&nbsp;👀&bg_color=30,fff,fff&title_color=bcbcbc&text_color=bcbcbc)](https://github.com/anuraghazra/github-readme-stats)
-  
-  </div>
- 
- <div width=30%>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjji&exclude_repo=Mask_Detect,machine_learning,verilogHDL&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,fff,fff&title_color=bcbcbc&text_color=bcbcbc)](https://github.com/anuraghazra/github-readme-stats)
-  
-  </div>
+<a href="https://github.com/dongjji/github-stats-transparent">
+ <img src="https://github.com/dongjji/github-stats-transparent/tree/output/generated/overview.svg" width=49.2% />
+</a>
+<a href="https://github.com/dongjji/github-stats-transparent">
+ <img src="https://github.com/dongjji/github-stats-transparent/tree/output/generated/languages.svg" width=49.2% />
+</a>
+
 
 <p align="left">
  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
