@@ -16,13 +16,13 @@
  
  <div width=40%>
   
-[![dongjoon's github stats](https://github-readme-stats.vercel.app/api?username=dongjji&count_private=true&custom_title=Dongjji's&nbsp;github&nbsp;👀&bg_color=30,bcbcbc,444444&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![dongjoon's github stats](https://github-readme-stats.vercel.app/api?username=dongjji&count_private=true&custom_title=Dongjji's&nbsp;github&nbsp;👀&bg_color=30,fff,444444&title_color=bcbcbc&text_color=bcbcbc)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
  
  <div width=30%>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjji&exclude_repo=Mask_Detect,machine_learning,verilogHDL&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,bcbcbc,444444&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjji&exclude_repo=Mask_Detect,machine_learning,verilogHDL&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,fff,444444&title_color=bcbcbc&text_color=bcbcbc)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
 
