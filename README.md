@@ -8,9 +8,15 @@
 [![Blog Badge](https://img.shields.io/badge/-Study_Blog-03C75A?logo=naver&logoColor=white&link=https://blog.naver.com/y2kdj9723)](https://blog.naver.com/y2kdj9723)
 [![Blog Badge](https://img.shields.io/badge/-Project_Blog-FF5A00?logo=TVTime&logoColor=white&link=https://dongjji.tistory.com)](https://dongjji.tistory.com)
 
+ <div width=95%>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DongJJI&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+ </div>
+ <div width=48%>
 [![dongjoon's github stats](https://github-readme-stats.vercel.app/api?username=dongjji&count_private=true&custom_title=Dongjji's&nbsp;github&nbsp;👀&bg_color=30,bcbcbc,444444&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+ <div width=48%>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjji&exclude_repo=Mask_Detect,machine_learning,verilogHDL&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,bcbcbc,444444&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 
 <p align="left">
  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
