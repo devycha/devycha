@@ -15,10 +15,10 @@
  </div>
  
 <a href="https://github.com/dongjji/github-stats-transparent">
- <img src="https://github.com/dongjji/github-stats-transparent/tree/output/generated/overview.svg" width=49.2% />
+ <img src="https://raw.githubusercontent.com/dongjji/github-stats-transparent/output/generated/overview.svg" width=49.2% />
 </a>
 <a href="https://github.com/dongjji/github-stats-transparent">
- <img src="https://github.com/dongjji/github-stats-transparent/tree/output/generated/languages.svg" width=49.2% />
+ <img src="https://raw.githubusercontent.com/dongjji/github-stats-transparent/output/generated/languages.svg" width=49.2% />
 </a>
 
 
