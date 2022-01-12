@@ -1,5 +1,6 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%23909090&center=true&vCenter=true&height=150&lines=Hello%2C+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%E2%9C%8B;%EB%A7%A4%EC%9D%BC+%EA%BE%B8%EC%A4%80%ED%9E%88+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94;%EA%B0%9C%EB%B0%9C%EC%9E%90+DongJoon%EC%9E%85%EB%8B%88%EB%8B%A4+%E2%9C%94)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%23909090&size=30&center=true&vCenter=true&height=150&lines=Hello+%E2%9C%8B+I'm+DongJoon)](https://git.io/typing-svg)
 
 [![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongjji&count_bg=%23bcbcbc&title_bg=%23F4F557&icon=swift.svg&icon_color=%23bcbcbc&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
