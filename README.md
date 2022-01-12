@@ -16,7 +16,7 @@
  
  <div width=40%>
   
-[![dongjoon's github stats](https://github-readme-stats.vercel.app/api?username=dongjji&count_private=true&custom_title=Dongjji's&nbsp;github&nbsp;👀&bg_color=30,fff,444444&title_color=bcbcbc&text_color=bcbcbc)](https://github.com/anuraghazra/github-readme-stats)
+[![dongjoon's github stats](https://github-readme-stats.vercel.app/api?username=dongjji&count_private=true&custom_title=Dongjji's&nbsp;github&nbsp;👀&bg_color=30,fff,bcbcbc&title_color=bcbcbc&text_color=bcbcbc)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
  
