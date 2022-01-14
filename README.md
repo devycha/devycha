@@ -8,7 +8,7 @@
 [![Blog Badge](https://img.shields.io/badge/-Study_Blog-03C75A?logo=naver&logoColor=white&link=https://blog.naver.com/y2kdj9723)](https://blog.naver.com/y2kdj9723)
 [![Blog Badge](https://img.shields.io/badge/-Project_Blog-FF5A00?logo=TVTime&logoColor=white&link=https://dongjji.tistory.com)](https://dongjji.tistory.com)
 
- <br><br>
+ <br>
  
  <div width=95%>
   
@@ -16,7 +16,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DongJJI&theme=graywhite&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
   
  </div>
- <br><br>
+ <br>
  
  #### 📈 Statistics & Language
 <a href="https://github.com/dongjji/github-stats-transparent">
