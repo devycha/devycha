@@ -36,6 +36,7 @@
  <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=MongoDB"/>
 </p>
 <p align="center">
+ <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java"/>
  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
  <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL"/>
  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
