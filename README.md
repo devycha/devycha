@@ -27,6 +27,11 @@
 </a>
 
  <br><br>
+ 
+ #### 🏆 Algorithm
+ [![백준랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=y2kdj9723)](https://solved.ac/y2kdj9723)
+<br/>
+ <br><br>
 
 <p align="center">
  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
