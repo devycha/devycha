@@ -12,13 +12,16 @@
  
  <div width=95%>
   
-  #### 🗓 1 Day 1 Commit
+#### 🗓 1 Day 1 Commit
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DongJJI&theme=graywhite&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
   
  </div>
  <br>
  
- #### 📈 Statistics & Language
+#### 🥇 Commits
+ [![github stats](https://github-readme-stats.vercel.app/api?username=dongjji)](https://github.com/anuraghazra/github-readme-stats)
+ 
+#### 📈 Statistics & Language
 <a href="https://github.com/dongjji/github-stats-transparent">
  <img src="https://raw.githubusercontent.com/dongjji/github-stats-transparent/output/generated/overview.svg" width=49.2% />
 </a>
