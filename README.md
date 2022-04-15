@@ -33,9 +33,7 @@
  <br><br>
  
  #### 🏆 Algorithm
- [![백준랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=y2kdj9723)](https://solved.ac/y2kdj9723)
- 
-  <img src="http://mazandi.herokuapp.com/api?handle=y2kdj9723&theme=warm"/>
+ [![백준랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=y2kdj9723)](https://solved.ac/y2kdj9723) <img style="margin-left: 15px;" src="http://mazandi.herokuapp.com/api?handle=y2kdj9723&theme=warm"/>
 <br/>
  <br><br>
 
