@@ -19,7 +19,7 @@
  <br>
  
 #### 🥇 Commits
- [![github stats](https://github-readme-stats.vercel.app/api?username=dongjji)](https://github.com/anuraghazra/github-readme-stats)
+ [![github stats](https://dongjji-github-readme-stats.vercel.app/api?username=dongjji)](https://github.com/anuraghazra/github-readme-stats)
  <br>
  
 #### 📈 Statistics & Language
