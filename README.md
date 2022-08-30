@@ -36,10 +36,6 @@
  [![백준랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=y2kdj9723)](https://solved.ac/y2kdj9723) <img style="margin-left: 15px;" src="http://mazandi.herokuapp.com/api?handle=y2kdj9723&theme=warm"/>
 <br/>
  <br><br>
- 
- #### 🏅OPGC
- <a href="https://opgc.me/#/users/dongjji" target="_blank"><img src="https://api.opgc.me/githubs/users/dongjji/tag/?theme=basic" /></a>
- <br><br>
 
  #### 💻 Programming Skill
 <p align="center">
