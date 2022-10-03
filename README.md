@@ -13,7 +13,7 @@
  <div width=95%>
   
 #### 🗓 1 Day 1 Commit
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DongJJI&theme=graywhite&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dongjji)](https://git.io/streak-stats)
   
  </div>
  <br>
