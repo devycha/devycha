@@ -4,39 +4,6 @@
 
 [![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongjji&count_bg=%23bcbcbc&title_bg=%23F4F557&icon=swift.svg&icon_color=%23bcbcbc&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-#### 🔰 Blog
-[![Blog Badge](https://img.shields.io/badge/-Study_Blog-03C75A?logo=naver&logoColor=white&link=https://blog.naver.com/y2kdj9723)](https://blog.naver.com/y2kdj9723)
-[![Blog Badge](https://img.shields.io/badge/-Project_Blog-FF5A00?logo=TVTime&logoColor=white&link=https://dongjji.tistory.com)](https://dongjji.tistory.com)
-
- <br>
- 
- <div width=95%>
-  
-#### 🗓 1 Day 1 Commit
-[![GitHub Streak](https://streak-stats.demolab.com?user=dongjji)](https://git.io/streak-stats)
-  
- </div>
- <br>
- 
-#### 🥇 Commits
- [![github stats](https://github-readme-stats.vercel.app/api?username=dongjji)](https://github.com/anuraghazra/github-readme-stats)
- <br>
- 
-#### 📈 Statistics & Language
-<a href="https://github.com/dongjji/github-stats-transparent">
- <img src="https://raw.githubusercontent.com/dongjji/github-stats-transparent/output/generated/overview.svg" width=49.2% />
-</a>
-<a href="https://github.com/dongjji/github-stats-transparent">
- <img src="https://raw.githubusercontent.com/dongjji/github-stats-transparent/output/generated/languages.svg" width=49.2% />
-</a>
-
- <br><br>
- 
- #### 🏆 Algorithm
- [![백준랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=y2kdj9723)](https://solved.ac/y2kdj9723) 
-<br/>
- <br><br>
-
  #### 💻 Programming Skill
 <p align="center">
  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
