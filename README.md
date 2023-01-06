@@ -2,8 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%23909090&size=30&center=true&vCenter=true&height=150&lines=Hello+%E2%9C%8B+I'm+DongJoon)](https://git.io/typing-svg)
 
-[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongjji&count_bg=%23bcbcbc&title_bg=%23F4F557&icon=swift.svg&icon_color=%23bcbcbc&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+ 
+<img src="https://img.shields.io/static/v1?label=N&message=Blog&color=brightgreen"/> [![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongjji&count_bg=%23bcbcbc&title_bg=%23F4F557&icon=swift.svg&icon_color=%23bcbcbc&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+ <hr>
+ 
  #### 💻 Programming Skill
 <p align="center">
  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
@@ -23,4 +27,14 @@
 <p align="center">
  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 </p>
+
+ <hr>
+ 
+ [![Dongjji's github stats](https://github-readme-stats.vercel.app/api?username=dongjji)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ <hr>
+ 
+ #### 👨‍🏫 Algorithms
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=y2kdj9723)](https://solved.ac/y2kdj9723/) 
+ 
 </div>
