@@ -4,7 +4,7 @@
 
 
  
-<img src="https://img.shields.io/static/v1?label=N&message=Blog&color=brightgreen"/> [![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongjji&count_bg=%23bcbcbc&title_bg=%23F4F557&icon=swift.svg&icon_color=%23bcbcbc&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://blog.naver.com/y2kdj9723"><img src="https://img.shields.io/static/v1?label=N&message=Blog&color=brightgreen"/></a> [![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongjji&count_bg=%23bcbcbc&title_bg=%23F4F557&icon=swift.svg&icon_color=%23bcbcbc&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
  <hr>
  
