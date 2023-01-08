@@ -1,10 +1,14 @@
 <div align="center">
+ 
+![waving](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🧑‍💻&desc=백엔드%20개발자를%20꿈꾸고%20있는%20차동준입니다.&fontColor=d6ace6&descAlign60&descAlignY=50)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%23909090&size=30&center=true&vCenter=true&height=150&lines=Hello+%E2%9C%8B+I'm+DongJoon)](https://git.io/typing-svg)
 
 
  
-<a href="https://blog.naver.com/y2kdj9723"><img src="https://img.shields.io/static/v1?label=N&message=Blog&color=brightgreen"/></a> [![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongjji&count_bg=%23bcbcbc&title_bg=%23F4F557&icon=swift.svg&icon_color=%23bcbcbc&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://blog.naver.com/y2kdj9723"><img src="https://img.shields.io/badge/-My%20Blog-black?style=flat-square&logo=Naver"/> <a href="https://dongjji.notion.site/_-74a088f72e2447be8899f48603359a26"><img src="https://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion"/> 
+
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongjji&count_bg=%23bcbcbc&title_bg=%23F4F557&icon=swift.svg&icon_color=%23bcbcbc&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
  <hr>
  
@@ -26,22 +30,35 @@
 </p>
 <p align="center">
  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub"/>
 </p>
- 
- .
- 
- .
- 
- .
- 
 
  <hr>
  
- [![Dongjji's github stats](https://github-readme-stats.vercel.app/api?username=dongjji)](https://github.com/anuraghazra/github-readme-stats)
+ #### ✏️ Now I'm Studying
+ <p align="center">
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker"/>
+  <img src="https://img.shields.io/badge/-Elasticsearch-black?style=flat-square&logo=Elasticsearch"/>
+ </p>
+ 
+ .
+ 
+ .
+ 
+ .
+ 
+ <hr>
+  
+ [![Dongjji's github stats](https://github-readme-stats.vercel.app/api?username=dongjji&card_width=370)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjji&layout=compact&hide=jupyter%20notebook&card_width=250)](https://github.com/dongjji/github-readme-stats)
  
  <hr>
  
  #### 👨‍🏫 Algorithms
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=y2kdj9723)](https://solved.ac/y2kdj9723/) 
+
+<br><br><br>
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=감사합니다!&fontSize=30&fontColor=d6ace6)
  
 </div>
