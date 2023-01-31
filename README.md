@@ -37,6 +37,7 @@
  
  #### ✏️ Now I'm Studying
  <p align="center">
+  <img src="https://img.shields.io/badge/-Network-black?style=for-the-badge&logo=Amazon%20AWS"/>
   <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker"/>
   <img src="https://img.shields.io/badge/-Elasticsearch-black?style=for-the-badge&logo=Elasticsearch"/>
  </p>
