@@ -6,7 +6,7 @@
 
 
  
-<a href="https://blog.naver.com/y2kdj9723"><img src="https://img.shields.io/badge/-My%20Blog-black?style=for-the-badge&logo=Naver"/> <a href="https://dongjji.notion.site/74a088f72e2447be8899f48603359a26"><img src="https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=Notion"/> 
+<a href="https://blog.naver.com/y2kdj9723"><img src="https://img.shields.io/badge/-My%20Blog-black?style=for-the-badge&logo=Naver"/>
 
 [![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongjji&count_bg=%23bcbcbc&title_bg=%23F4F557&icon=swift.svg&icon_color=%23bcbcbc&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
