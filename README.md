@@ -53,8 +53,8 @@
  
   #### ⚙️ Statistics
  
- [![Dongjji's github stats](https://github-readme-stats.vercel.app/api?username=dongjji&card_width=370)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjji&layout=compact&hide=jupyter%20notebook&card_width=250)](https://github.com/dongjji/github-readme-stats)
+ [![DevyCha's github stats](https://github-readme-stats.vercel.app/api?username=devycha&card_width=370)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devycha&layout=compact&hide=jupyter%20notebook&card_width=250)](https://github.com/devycha/github-readme-stats)
  
  <hr>
  
