@@ -1,6 +1,6 @@
 <div align="center">
  
-![waving](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🧑‍💻&desc=백엔드%20개발자를%20꿈꾸고%20있는%20차동준입니다.&fontColor=d6ace6&descAlign60&descAlignY=50)
+![waving](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🧑‍💻&desc=DevOps%20엔지니어를%20꿈꾸고%20있는%20차동준입니다.&fontColor=d6ace6&descAlign60&descAlignY=50)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%23909090&size=30&center=true&vCenter=true&height=150&lines=Hello+%E2%9C%8B+I'm+DongJoon)](https://git.io/typing-svg)
 
